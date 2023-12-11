@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\mattg\Documents\GitHub\AdventOfCode_23\AoC23_D3\AoC23_D3\main.cpp(95,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mattg\Documents\GitHub\AdventOfCode_23\AoC23_D3\AoC23_D3\main.cpp(126,18): warning C4244: 'initializing': conversion from '_Rep' to 'double', possible loss of data
+C:\Users\mattg\Documents\GitHub\AdventOfCode_23\AoC23_D3\AoC23_D3\main.cpp(126,18): warning C4244:         with
+C:\Users\mattg\Documents\GitHub\AdventOfCode_23\AoC23_D3\AoC23_D3\main.cpp(126,18): warning C4244:         [
+C:\Users\mattg\Documents\GitHub\AdventOfCode_23\AoC23_D3\AoC23_D3\main.cpp(126,18): warning C4244:             _Rep=__int64
+C:\Users\mattg\Documents\GitHub\AdventOfCode_23\AoC23_D3\AoC23_D3\main.cpp(126,18): warning C4244:         ]
+  AoC23_D3.vcxproj -> C:\Users\mattg\Documents\GitHub\AdventOfCode_23\AoC23_D3\x64\Debug\AoC23_D3.exe
