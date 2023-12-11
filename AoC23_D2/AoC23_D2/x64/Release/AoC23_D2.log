@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\mattg\Documents\Visual Studio 2022\source\AoC23_D2\AoC23_D2\main.cpp(66,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mattg\Documents\Visual Studio 2022\source\AoC23_D2\AoC23_D2\main.cpp(92,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mattg\Documents\Visual Studio 2022\source\AoC23_D2\AoC23_D2\main.cpp(101,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  1 of 200 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  AoC23_D2.vcxproj -> C:\Users\mattg\Documents\Visual Studio 2022\source\AoC23_D2\x64\Release\AoC23_D2.exe
