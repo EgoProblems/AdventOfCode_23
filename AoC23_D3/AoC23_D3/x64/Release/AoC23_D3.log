@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\mattg\Documents\GitHub\AdventOfCode_23\AoC23_D3\AoC23_D3\main.cpp(128,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  2 of 188 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  AoC23_D3.vcxproj -> C:\Users\mattg\Documents\GitHub\AdventOfCode_23\AoC23_D3\x64\Release\AoC23_D3.exe
