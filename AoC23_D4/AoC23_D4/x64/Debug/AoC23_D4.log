@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\mattg\Documents\Visual Studio 2022\source\AoC23_D4\AoC23_D4\main.cpp(26,41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mattg\Documents\Visual Studio 2022\source\AoC23_D4\AoC23_D4\main.cpp(27,41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mattg\Documents\Visual Studio 2022\source\AoC23_D4\AoC23_D4\main.cpp(32,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mattg\Documents\Visual Studio 2022\source\AoC23_D4\AoC23_D4\main.cpp(33,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  AoC23_D4.vcxproj -> C:\Users\mattg\Documents\Visual Studio 2022\source\AoC23_D4\x64\Debug\AoC23_D4.exe
